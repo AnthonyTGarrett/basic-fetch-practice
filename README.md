@@ -1,5 +1,21 @@
 # Basic Fetch Practice
 
-## Small site that fetches json data from a statically hosted file on Github
+Simple site that allows the user to fetch 500 records of user information from a statically hosted json file that is stored on Github
 
-### Allows the user to display all 500 user information cards at once or to filter out all of the users that have over 10 years of experience
+[Json Info](https://github.com/dan-collins-dev/dummy-data-fetching-repo/tree/main)
+
+## Getting Started
+
+Simply clone the repo and then view the index.html in the browser or with any live server plugin
+
+### Prerequisites
+
+No special requirements
+
+## Deployment
+
+None
+
+## Authors
+
+- **Anthony Garrett**
