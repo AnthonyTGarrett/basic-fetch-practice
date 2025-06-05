@@ -4,6 +4,8 @@ Simple site that allows the user to fetch 500 records of user information from a
 
 [Json Info](https://github.com/dan-collins-dev/dummy-data-fetching-repo/tree/main)
 
+![Site Image](screenshot.png 'Running Site')
+
 ## Getting Started
 
 Simply clone the repo and then view the index.html in the browser or with any live server plugin
